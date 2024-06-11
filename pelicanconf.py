@@ -7,7 +7,7 @@ PATH = "content"
 TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
-THEME = './Casper2Pelican/'
+THEME = './Casper2/'
 STATIC_PATHS = ['static']
 DEFAULT_HEADER_IMAGE = 'https://ipic.zoomquiet.top/2023-03-02-230302-ferris-actor.gif'
 
