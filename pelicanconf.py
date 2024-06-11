@@ -8,6 +8,8 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 THEME = './Casper2Pelican/'
+STATIC_PATHS = ['static']
+DEFAULT_HEADER_IMAGE = 'https://ipic.zoomquiet.top/2023-03-02-230302-ferris-actor.gif'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -18,16 +20,13 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Github", "https://github.com/julioliraup/"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+        ("Twitter", "https://x.com/julioliraup"),
+        ("Instagram", "https://instagram.com/julioliraup"),
 )
 
 DEFAULT_PAGINATION = 10
