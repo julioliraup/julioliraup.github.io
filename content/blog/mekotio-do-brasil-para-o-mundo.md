@@ -1,7 +1,7 @@
 Title: Mekotio - Malware voltado para instituições bancárias: Do Brasil para o mundo
 Date: 2024-08-01 19:30
 Category: RAT
-header_image: /static/mekotio.gif 
+header_image: /static/mekotio.jpg 
 > Aqui haverá alguns termos técnicos, evitarei aportuguesar para que termos não conhecidos possam ser descobertos e quem sabe se tornem um novo aprendizado para você
 
 # Objetivo dos malwares
