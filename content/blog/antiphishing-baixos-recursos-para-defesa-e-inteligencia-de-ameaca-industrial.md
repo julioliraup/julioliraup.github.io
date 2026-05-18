@@ -3,6 +3,8 @@ Date: 2026-05-18 08:00
 Category: Phishing, CTI
 header_image: /static/antiphishing-1.gif 
 
+![](/static/antiphishing-1.gif)
+
 # FAZER MUITO COM POUCO GUARDE BEM ESSA FRASE
 
 Durante a 2° Guerra mundial, a União das Repúblicas Socialistas Soviéticas (URSS) conseguiu superar a tática empregada pelo exercito nazista que até então era invicta utilizando 3 táticas principais, mas essa frase fala sobre a segunda e principal tática, a que ocasionou a virada naquele cenário.
