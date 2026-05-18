@@ -8,7 +8,8 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 THEME = './casper2pelican/'
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['static', 'extra']
+ARTICLE_EXCLUDES = ['extra']
 DEFAULT_HEADER_IMAGE = '/static/main.gif'
 
 # Feed generation is usually not desired when developing
@@ -18,6 +19,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+EXTRA_PATH_METADATA = {
+    'extra/googleaa9a829f41211379.html': {'path': 'googleaa9a829f41211379.html'},
+}
 # Blogroll
 LINKS = (
     ("Github", "https://github.com/julioliraup/"),
